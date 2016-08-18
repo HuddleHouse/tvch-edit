@@ -1,0 +1,93 @@
+body {
+	margin-top:30px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:14px;
+	overflow-y: scroll;
+	background:none transparent;
+}
+
+.uppercase {text-transform: uppercase;
+font-weight:900;
+}
+
+.purple-heading {
+	padding:1rem;
+	background-color:#39245c;
+	color:#FFF;
+	font-size:1.6rem;
+}
+
+.gray-bg {
+	background-color: #BBBBBB;
+}
+.purple-bg {background-color: #ddd0ee;}
+
+a {color: #39245c; }
+
+.result-row {
+	color: #1f1f1f;
+	width: 50%;
+	display: inline-block;
+	box-sizing: border-box;
+	padding:10px;
+	padding-left:10px;
+	vertical-align: top;
+}
+
+.full-row {
+	padding:10px;background:#EEEEEE;
+}
+
+.fader {display: none;}
+
+.btn-county, .btn-offer {
+	min-width:200px;
+	border-radius:0;
+}
+
+.btn-default {
+	background-color: #F7941e;
+	border:none;
+	color:#FFF;
+	font-size:16px;border:5px solid #999;
+}
+
+.btn-default:hover,
+.btn-default:focus
+{
+	background-color: #F7941e;
+	color: #FFF;border:5px solid #999;
+}
+.dropdown-menu
+ {
+	background-color: #fbc789;
+	border:0;
+}
+
+
+.dropdown-menu li > a:hover,
+.dropdown-menu li > a:focus,
+.dropdown-submenu:hover > a
+ {background-color: #F7941e; cursor: pointer;}
+
+
+ a {
+ 	overflow-wrap: break-word;
+ }
+
+.btn-default.active, 
+.btn-default.focus, 
+.btn-default:active, 
+.btn-default:focus, 
+.btn-default:hover, 
+.open>.dropdown-toggle.btn-default {
+	background-color: #F7941e;
+	color: #FFF;
+
+}
+
+.dropdown-menu .divider {background-color: #F7941e;}
+
+.activate 
+ {background-color: #F7941e;}
+

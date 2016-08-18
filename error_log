@@ -1,0 +1,41 @@
+[12-Nov-2015 18:34:41 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/tvchomel/public_html/community_resources/load.php on line 45
+[09-Jan-2016 20:55:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 2
+[09-Jan-2016 20:55:04 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 2
+[09-Jan-2016 20:55:35 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 2
+[09-Jan-2016 20:56:25 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 2
+[09-Jan-2016 20:56:56 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 2
+[09-Jan-2016 20:57:42 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 20:57:45 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 20:57:46 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 20:59:38 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:00:37 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:01:01 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:01:48 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:01:50 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:02:07 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:03:23 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:05:41 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:06:17 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:08:00 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:08:50 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:09:18 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:10:07 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:10:24 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:10:32 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:10:33 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:12:36 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:13:48 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:14:05 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:14:39 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:15:06 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:15:07 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:15:55 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:16:19 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 4
+[09-Jan-2016 21:21:26 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO in /home/tvchomel/public_html/edit-community-resources/get-data.php on line 22
+[10-Jan-2016 19:08:59 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/tvchomel/public_html/edit-community-resources/add-program.php on line 33
+[10-Jan-2016 19:13:40 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/tvchomel/public_html/edit-community-resources/add-program.php on line 33
+[10-Jan-2016 19:15:15 America/New_York] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/tvchomel/public_html/edit-community-resources/add-program.php on line 33
+[10-Jan-2016 20:05:38 America/New_York] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/tvchomel/public_html/edit-community-resources/save.php on line 2
+[10-Jan-2016 20:06:06 America/New_York] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/tvchomel/public_html/edit-community-resources/save.php on line 2
+[10-Jan-2016 20:06:40 America/New_York] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/tvchomel/public_html/edit-community-resources/save.php on line 2
+[10-Jan-2016 20:07:04 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO in /home/tvchomel/public_html/edit-community-resources/save.php on line 3
